@@ -1,7 +1,7 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
-permalink: /posts/2012/08/blog-post-4/
+title: 'About Psycology'
+date: 2077-12-01
+permalink: /posts/2077/12/blog-post-4/
 tags:
   - cool posts
   - category1
